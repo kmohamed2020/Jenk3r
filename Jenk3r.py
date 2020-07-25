@@ -5,6 +5,7 @@ from pathlib import Path
 import html
 import os 
 
+
 class bcolors: #Class for having the codes of each color to be used while printing output on console in collored manner
 	HEADER = '\033[95m'
 	OKBLUE = '\033[94m'
